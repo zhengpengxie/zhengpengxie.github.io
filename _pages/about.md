@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: /
+subtitle:
 
 profile:
   align: right
@@ -28,3 +28,5 @@ latest_posts:
 ---
 
 Hi! I'm a student who is interested in deep reinforcement learning (DRL). My recent research focuses on designing theoretically sound policy gradient algorithms and improving their generalization performance.
+
+I am looking for highly motivated assistant professors. If you are working at a university ranked in the top 50 of the QS Rankings and have a reasonable background in reinforcement learning, feel free to contact me through zhengpengxie@hkust-gz.edu.cn!
