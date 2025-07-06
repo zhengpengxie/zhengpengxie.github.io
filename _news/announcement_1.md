@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Simple Policy Optimization has been accepted to ICML! :smile:
+A simple inline announcement.
