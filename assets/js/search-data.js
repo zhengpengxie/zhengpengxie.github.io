@@ -384,8 +384,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-simple-policy-optimization-is-accepted-by-icml-2025-smile",
-          title: 'Simple Policy Optimization is accepted by ICML 2025! :smile:',
+            },},{id: "news-simple-policy-optimization-has-been-accepted-to-icml-2025-smile",
+          title: 'Simple Policy Optimization has been accepted to ICML 2025! :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
