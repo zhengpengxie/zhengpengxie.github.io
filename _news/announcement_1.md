@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Simple Policy Optimization has been accepted to ICML 2025! :smile:
+Simple Policy Optimization has been accepted to ICML! :smile:
