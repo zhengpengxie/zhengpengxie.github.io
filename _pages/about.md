@@ -34,3 +34,6 @@ I am looking for highly motivated assistant professors. If you are working at a 
 <div class="map" style="width: 15%; max-width: 200px; height: auto; overflow: hidden; float: left; margin-left: 10px;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=d0xotbIlNUEp57h4Wmp0JPBRRrSVl3OCFl9ZDzdrGdU"></script>
 </div>
+
+I used to be a Grandmaster Zed player in League of Legends.
+![Description of the image](./grandmaster.jpg)
