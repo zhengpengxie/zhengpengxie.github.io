@@ -15,6 +15,10 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+# {% bibliography %}
+{%- for y in page.cat %}  
+  <h2 class="year">{{y}}</h2>
+    {% bibliography -f {{ site.scholar.bibliography }} -q @*[abbr={{y}}]* %}
+{% endfor %}
 
 </div>
