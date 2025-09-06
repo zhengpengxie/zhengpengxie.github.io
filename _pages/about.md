@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I'm a student who is interested in deep reinforcement learning (DRL). My recent research focuses on designing theoretically sound policy gradient algorithms and improving their generalization performance.
+Hi there! I'm a incoming PhD student in HKUST(GZ), I'm interested in deep reinforcement learning (DRL). My recent research focuses on designing theoretically sound policy gradient algorithms and improving their generalization performance.
 
-I am looking for highly motivated assistant professors. If you are working at a university ranked in the top 50 of the QS Rankings and have a reasonable background in RL, feel free to contact me through [zhengpengxie@hkust-gz.edu.cn](mailto:zhengpengxie@hkust-gz.edu.cn)!
+If you would like to discuss or collaborate with me, feel free to contact me through [zhengpengxie00@gmail.com](mailto:zhengpengxie00@gmail.com) or [zhengpengxie@hkust-gz.edu.cn](mailto:zhengpengxie@hkust-gz.edu.cn)!
 
 <!-- I used to be a Grandmaster Zed player in League of Legends.
 ![Description of the image](./grandmaster.jpg) -->
